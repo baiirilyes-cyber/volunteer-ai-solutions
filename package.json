@@ -11,7 +11,7 @@
   "dependencies": {
     "@supabase/supabase-js": "latest",
     "lucide-react": "latest",
-    "next": "latest",
+    "next": "15.3.5",
     "openai": "latest",
     "react": "latest",
     "react-dom": "latest",
@@ -26,7 +26,7 @@
     "@types/react-dom": "latest",
     "autoprefixer": "latest",
     "postcss": "latest",
-    "tailwindcss": "latest",
+  "tailwindcss": "3.4.17",
     "typescript": "latest"
   }
 }
