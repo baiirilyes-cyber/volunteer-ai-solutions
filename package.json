@@ -2,13 +2,13 @@
   "name": "volunteer-ai-solutions-saas",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "typecheck": "tsc --noEmit"
-  },
-  "dependencies": {
+ "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "typecheck": "tsc --noEmit"
+},
+"dependencies": {
     "@supabase/supabase-js": "latest",
     "lucide-react": "latest",
     "next": "15.3.8"
